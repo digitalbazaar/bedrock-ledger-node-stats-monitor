@@ -1,6 +1,6 @@
 {
   "name": "bedrock-ledger-node-stats-monitor",
-  "version": "1.0.1",
+  "version": "1.0.2-0",
   "description": "Bedrock ledger node stats monitor",
   "license": "SEE LICENSE IN LICENSE.md",
   "main": "lib",
